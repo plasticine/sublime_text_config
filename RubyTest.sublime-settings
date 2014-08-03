@@ -1,0 +1,7 @@
+{
+  "check_for_rbenv": true,
+  "check_for_bundler": true,
+  "check_for_spring": false,
+  "theme": "Packages/User/RubyTest.tmTheme",
+  "syntax": "Packages/User/RubyTest.tmLanguage",
+}

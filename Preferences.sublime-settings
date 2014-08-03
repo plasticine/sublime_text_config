@@ -1,0 +1,94 @@
+{
+	"auto_complete_delay": 30,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/base16-ocean.light (SL).tmTheme",
+	"detect_slow_plugins": false,
+	"drag_text": false,
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"env":
+	{
+		"PATH": "bin:/opt/boxen/rbenv/shims:/opt/boxen/rbenv/bin:/opt/boxen/rbenv/plugins/ruby-build/bin:/opt/boxen/homebrew/share/python:node_modules/.bin:/opt/boxen/nodenv/shims:/opt/boxen/nodenv/bin:/opt/boxen/bin:/opt/boxen/homebrew/bin:/opt/boxen/homebrew/sbin:/Users/justin/bin:./bin:./node_modules/.bin:/usr/local/bin:/usr/local/sbin:/Users/justin/.sfs:/Users/justin/.dotfiles/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/opt/boxen/homebrew/share/npm/bin:/usr/local/heroku/bin"
+	},
+	"file_exclude_patterns":
+	[
+		"*.a",
+		"*.class",
+		"*.db",
+		"*.dll",
+		"*.dylib",
+		"*.exe",
+		"*.idb",
+		"*.lib",
+		"*.ncb",
+		"*.o",
+		"*.obj",
+		"*.pdb",
+		"*.psd",
+		"*.pyc",
+		"*.pyo",
+		"*.scssc",
+		"*.sdf",
+		"*.so",
+		"*.sublime-*",
+		"*.suo",
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".bundle",
+		".git",
+		".hg",
+		".sass-cache",
+		".sublime-project",
+		".sublime-workspace",
+		".svn",
+		"bundle",
+		"coverage",
+		"CVS",
+		"node_modules",
+		"public/assests",
+		"spec/javascripts/generated",
+		"tmp",
+		"vendor/components",
+		"source_maps",
+		".bower-*"
+	],
+	"font_face": "Fira Mono OT",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"SublimeLinter-jsxhint",
+		"ReactJS",
+		"SideBarEnhancements",
+		"Git",
+		"Markdown Extended",
+		"Cucumber",
+		"Vintage",
+		"BracketHighlighter",
+		"GitGutter"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"soda_folder_icons": true,
+	"tab_size": 2,
+	"theme": "Spacegray Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": false,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"':,-.;<>~!@#$%^&*|+=[]{}`~"
+}
